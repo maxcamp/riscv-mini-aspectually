@@ -25,6 +25,7 @@ tests/64/*
 # Visual Studio Code
 .bloop/
 .metals/
+metals.sbt
 .vscode/
 
 # Synopsys Verdi
